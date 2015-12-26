@@ -454,4 +454,3 @@ LCM_DRIVER r69431_hd720_dsi_vdo_lcm_drv =
 //	.esd_check 		= lcm_esd_check,
 //	.esd_recover		= lcm_esd_recover,
 };
-
