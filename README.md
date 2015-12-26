@@ -16,8 +16,12 @@ Build:
 		make 2014011_debug_defconfig
 		./build.sh
 
+* Working
+  * LCM: r69431_hd720_dsi_vdo
+  * Other stuff
+
 * Not Working
-  * LCM
+  * LCM: r61308_dsi_vdo and nt35521_hd720_dsi_vdo
   * Other unknown stuff
 
 
