@@ -1,0 +1,11 @@
+config MTK_STK3X1X
+	bool "MTK_STK3X1X for MediaTek package"
+	default n
+
+config MTK_LTR553
+	bool "MTK_LTR553 for MediaTek package"
+	default n
+
+config MTK_LTR558
+	bool "MTK_LTR558 for MediaTek package"
+	default n

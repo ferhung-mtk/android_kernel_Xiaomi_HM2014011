@@ -1,0 +1,11 @@
+config MTK_L3GD20
+	bool "MTK_L3GD20 for MediaTek package"
+	default n
+
+config MTK_BMG160
+	bool "MTK_BMG160 for MediaTek package"
+	default n
+
+config MTK_BMI058
+	bool "MTK_BMI058 for MediaTek package"
+	default n

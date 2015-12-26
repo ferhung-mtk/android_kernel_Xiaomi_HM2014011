@@ -1,0 +1,7 @@
+config MTK_LSM330_AUTO
+	bool "MTK_LSM330_AUTO for MediaTek package"
+	default n
+
+config MTK_BMI058
+	bool "MTK_BMI058 for MediaTek package"
+	default n

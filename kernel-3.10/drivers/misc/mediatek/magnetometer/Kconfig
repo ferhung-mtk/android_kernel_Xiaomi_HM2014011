@@ -1,0 +1,7 @@
+config MTK_AKM8963
+	bool "MTK_AKM8963 for MediaTek package"
+	default n
+
+config MTK_HSCDTD006_AUTO
+	bool "MTK_HSCDTD006_AUTO for MediaTek package"
+	default n
