@@ -222,6 +222,11 @@ config MTK_AUTO_DETECT_MAGNETOMETER
 	help
 	  one load to support different magnetometer sensor
 
+config MTK_AUTO_DETECT_GYROSCOPE
+	bool "MTK_AUTO_DETECT_GYROSCOPE"
+	help
+	  one load to support different gyroscope sensor
+
 config MTK_AUTO_DETECT_ALSPS
 	bool "MTK_AUTO_DETECT_ALSPS"
 	help
