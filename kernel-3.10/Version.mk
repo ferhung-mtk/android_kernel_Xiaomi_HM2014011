@@ -1,1 +1,0 @@
-LINUX_KERNEL_VERSION :=  kernel-3.10
