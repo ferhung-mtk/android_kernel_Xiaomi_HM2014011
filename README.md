@@ -9,9 +9,9 @@ Add:
 
 Build:
 
-		sudo chmod -R 777 * ~/MT6582-LP-KERNEL/arm-eabi-4.8
+		sudo chmod -R 777 * ~/android_kernel_Xiaomi_HM2014011/arm-eabi-4.8
 		cd ~/MT6582-LP-KERNEL/kernel-3.10
-		export ARCH=arm && export ARCH_MTK_PLATFORM=mt6582 && export CROSS_COMPILE=~/MT6582-LP-KERNEL/arm-eabi-4.8/bin/arm-eabi-
+		export ARCH=arm && export ARCH_MTK_PLATFORM=mt6582 && export CROSS_COMPILE=~/android_kernel_Xiaomi_HM2014011/arm-eabi-4.8/bin/arm-eabi-
 		make clean
 		make 2014011_debug_defconfig
 		./build.sh
